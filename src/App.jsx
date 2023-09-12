@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Simple React Project</h1>
+      <h1>Simple Todo List</h1>
       <input
         type="text"
         placeholder="Enter an item"
